@@ -1,0 +1,5 @@
+﻿mode,n_cost,median_freight_usd,median_usd_per_kg,median_freight_pct_value,late_rate,median_po_to_sched_days
+Air,4085,4784.19,10.014,0.126,0.096,99.0
+Truck,1161,6002.0,2.501,0.059,0.161,4.0
+Air Charter,423,15322.73,4.318,0.087,0.115,64.0
+Ocean,282,9520.975,1.681,0.035,0.175,164.0

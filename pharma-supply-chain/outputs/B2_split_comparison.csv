@@ -1,0 +1,7 @@
+model,split,accuracy,precision,recall,f1,roc_auc
+logreg,random,0.609,0.2,0.801,0.32,0.775
+logreg,temporal,0.55,0.209,0.786,0.331,0.632
+rf,random,0.771,0.287,0.672,0.402,0.826
+rf,temporal,0.782,0.328,0.515,0.4,0.807
+logreg,delta (temporal-random),-0.059,0.01,-0.014,0.011,-0.144
+rf,delta (temporal-random),0.011,0.04,-0.157,-0.002,-0.019
